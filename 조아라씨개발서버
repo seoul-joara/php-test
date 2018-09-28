@@ -1,0 +1,42 @@
+-adver
+num : 광고 번호
+image : 광고 이미지
+product_num : 광고 제품 번호 (product 테이블의 num 연결)
+useYN : 광고 사용 여부
+
+
+-product
+num : 제품 번호 
+title : 제품 명
+sub : 제품 간략 설명
+image : 제품 이미지
+price : 제품 가격
+sale_price : 제품 세일 가격
+sales volume : 제품 판매량
+view_count : 제품 조회수
+vely_made : 블리메이드
+only_vely : 단독입고
+review_count : 리뷰 수
+url: 제품 상세 페이지
+createdAt : 제품 올라간 날짜
+updatedAt : 제품 수정된 날짜
+
+
+
+
+
+
+
+
+====================================================
+해야할것
+-소스코드분리
+-git 생성 
+-admin product insert page 생성 (이미지 업로드 까지)
+-javascript class?
+===============================================
+거슬리는것
+-today view db 연결, session? cookie?
+-today view 도 scroll down 시 fixed
+-카카오톡 연동?
+
