@@ -28,7 +28,7 @@
         font: 0.75em Dotum,Verdana,AppleGothic,sans-serif;
         text-transform: uppercase;
         color: #353535;
-     }
+      }
 
       .header_wrap {
         position: relative;
