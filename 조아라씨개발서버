@@ -30,9 +30,8 @@ updatedAt : 제품 수정된 날짜
 
 ====================================================
 해야할것
--소스코드분리
 -admin product insert page 생성 (이미지 업로드 까지)
--javascript class?
+-page class로 분리
 ===============================================
 거슬리는것
 -today view db 연결, session? cookie?

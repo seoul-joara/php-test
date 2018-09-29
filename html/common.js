@@ -7,14 +7,15 @@ $('.login').hover(function(){
 
 // Initialize Swiper
 var swiper = new Swiper('.swiper-container', {
-spaceBetween: 30,
-autoplay: {
-    delay: 4000,
-},
-pagination: {
-    el: '.swiper-pagination',
-    clickable: true,
-},
+    spaceBetween: 30,
+    autoplay: {
+        delay: 4000,
+    },
+    pagination: {
+        el: '.swiper-pagination',
+        clickable: true,
+    },
+});
 
 // today view slider
 var count, now
